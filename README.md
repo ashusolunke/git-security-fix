@@ -46,3 +46,5 @@ pytest tests/ -v
 ## License
 
 MIT
+---
+Triggering GitHub Action 🚀
