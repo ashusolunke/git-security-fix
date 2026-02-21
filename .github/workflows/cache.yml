@@ -25,3 +25,6 @@ jobs:
 
       - name: prime-cache-5010c89
         run: echo "Cache hit? ${{ steps.cache.outputs.cache-hit }}"
+        
+      - name: final-check
+        run: echo "done"
